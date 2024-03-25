@@ -1,0 +1,57 @@
+2024-03-25 23:22:38,079 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-25 23:23:30,864 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OET:Online_Expense_Tracker:0.0.1-SNAPSHOT @ G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\pom.xml.
+2024-03-25 23:23:33,820 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Online_Expense_Tracker/src/main/java
+2024-03-25 23:23:33,821 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Online_Expense_Tracker/src/main/java overlaps with sources folder /Online_Expense_Tracker/src/main/java
+2024-03-25 23:23:33,853 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Online_Expense_Tracker/src/test/java
+2024-03-25 23:23:34,123 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2024-03-25 23:23:34,667 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-25 23:23:35,775 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OET:Online_Expense_Tracker:0.0.1-SNAPSHOT @ G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\pom.xml.
+2024-03-25 23:23:36,636 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Online_Expense_Tracker/src/main/java
+2024-03-25 23:23:36,637 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Online_Expense_Tracker/src/main/java overlaps with sources folder /Online_Expense_Tracker/src/main/java
+2024-03-25 23:23:36,641 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Online_Expense_Tracker/src/test/java
+2024-03-25 23:23:37,305 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-03-25 23:23:39,059 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:23:39,068 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-25 23:23:39,091 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:23:39,092 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\src\test\resources
+2024-03-25 23:24:25,284 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OET:Online_Expense_Tracker:0.0.1-SNAPSHOT @ G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\pom.xml.
+2024-03-25 23:24:25,852 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:24:25,856 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-25 23:24:25,865 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:24:25,865 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\src\test\resources
+2024-03-25 23:24:28,017 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:24:28,029 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-25 23:24:28,048 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:24:28,048 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\src\test\resources
+2024-03-25 23:24:46,435 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:24:46,436 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-25 23:24:46,445 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:24:46,445 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\src\test\resources
+2024-03-25 23:29:35,533 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-25 23:29:36,334 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OET:Online_Expense_Tracker:0.0.1-SNAPSHOT @ G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\pom.xml.
+2024-03-25 23:29:36,954 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Online_Expense_Tracker/src/main/java
+2024-03-25 23:29:36,955 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Online_Expense_Tracker/src/main/java overlaps with sources folder /Online_Expense_Tracker/src/main/java
+2024-03-25 23:29:36,956 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Online_Expense_Tracker/src/test/java
+2024-03-25 23:29:37,389 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-03-25 23:29:37,967 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:29:37,969 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-25 23:29:38,009 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:29:38,009 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\src\test\resources
+2024-03-25 23:32:19,119 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:32:19,124 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-25 23:32:19,132 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:32:19,133 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\src\test\resources
+2024-03-25 23:32:30,846 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-25 23:32:31,416 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OET:Online_Expense_Tracker:0.0.1-SNAPSHOT @ G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\pom.xml.
+2024-03-25 23:32:31,842 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Online_Expense_Tracker/src/main/java
+2024-03-25 23:32:31,843 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Online_Expense_Tracker/src/main/java overlaps with sources folder /Online_Expense_Tracker/src/main/java
+2024-03-25 23:32:31,845 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Online_Expense_Tracker/src/test/java
+2024-03-25 23:32:32,089 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-03-25 23:32:32,671 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:32:32,672 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-25 23:32:32,693 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:32:32,693 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\src\test\resources
+2024-03-25 23:32:41,273 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:32:41,277 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-25 23:32:41,285 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-25 23:32:41,285 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\amit\Online_Expense_Tracker_Hibernate\Online_Expense_Tracker\src\test\resources
