@@ -33,5 +33,5 @@ The Online Expense Tracker is a Java application aimed at providing users with a
 - **ORM Framework**: Hibernate
 - **Database**: MySQL
 
-## Additional Notes
+## ER Diagram
 ![alt text](https://github.com/AMITSINHA577/online_expense_tracking/blob/main/images/ER%20diagram(online-expense-tracker).png)
