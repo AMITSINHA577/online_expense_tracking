@@ -1,7 +1,5 @@
 # Online Expense Tracker
 
-![Expense Tracker](images/ER diagram(online-expense-tracker))
-
 ## Project Description
 
 The Online Expense Tracker is a Java application aimed at providing users with a robust system for managing their expenses effectively. Leveraging Java as the primary programming language along with Hibernate for seamless object-relational mapping and MySQL for efficient data storage, this application offers a user-friendly interface and powerful functionalities.
@@ -36,6 +34,4 @@ The Online Expense Tracker is a Java application aimed at providing users with a
 - **Database**: MySQL
 
 ## Additional Notes
-
-![ER Diagram](images/ER diagram(online-expense-tracker).png)
-
+![alt text](https://github.com/AMITSINHA577/online_expense_tracking/blob/main/images/ER%20diagram(online-expense-tracker).png)
