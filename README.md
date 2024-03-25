@@ -1,24 +1,38 @@
-Online Expense Tracker
+# Online Expense Tracker
 
-Description
-Online Expense Tracker is a Java application designed to provide users with a robust expense tracking system. This application leverages Java, Hibernate, and MySQL to offer seamless data management and user-friendly functionalities.
+![Expense Tracker](images/ER diagram(online-expense-tracker))
 
-Key Features
-User Authentication: Secure registration and login mechanisms ensure controlled access to expense tracking.
-CRUD Operations: Users can easily add, delete, and update their expenses.
-Comparative Analysis: Visualize expense data to gain valuable insights and make informed decisions.
-Advanced Features (Optional)
-Expense Categorization: Customize categories for detailed spending analysis.
-Budget Setting: Define and monitor financial goals to stay within budget.
-Reporting Tools: Generate reports and visualize data for comprehensive financial overviews.
-Benefits
-Enhanced Financial Awareness: Users gain insights into spending habits for informed decision-making.
-Improved Budgeting: Set and monitor budgets to achieve savings goals.
-Collaboration and Comparison: Share expense data for insightful financial discussions (optional).
-Target Audience
-Individuals seeking effective personal finance management.
-Small businesses or groups in need of collaborative expense tracking solutions.
-Technology Stack
-Programming Language: Java
-ORM Framework: Hibernate
-Database: MySQL
+## Project Description
+
+The Online Expense Tracker is a Java application aimed at providing users with a robust system for managing their expenses effectively. Leveraging Java as the primary programming language along with Hibernate for seamless object-relational mapping and MySQL for efficient data storage, this application offers a user-friendly interface and powerful functionalities.
+
+## Key Features
+
+- **User Authentication**: Secure registration and login mechanisms ensure controlled access to the expense tracking system.
+- **CRUD Operations**: Users can effortlessly perform Create, Read, Update, and Delete operations on their expense data.
+- **Comparative Analysis**: Visualize expense data to gain valuable insights by comparing expenses with other individuals or groups.
+
+## Advanced Features (Optional)
+
+- **Customizable Expense Categorization**: Users can categorize expenses to enable granular control over spending analysis.
+- **Budget Setting and Tracking**: Define and monitor financial goals by setting budgets to stay within financial limits.
+- **Reporting and Visualization Tools**: Generate reports and visualize data for comprehensive financial overviews.
+
+## Benefits
+
+- **Enhanced Financial Awareness**: Users gain a clear understanding of their spending habits, enabling informed financial decisions.
+- **Improved Budgeting**: Setting and monitoring budgets allow users to remain within financial limits and achieve their savings goals.
+- **Collaboration and Comparison**: Sharing expense data (with opt-in consent) facilitates insightful comparisons and financial discussions among users.
+
+## Target Audience
+
+- Individuals seeking effective personal finance management.
+- Small businesses or groups requiring a collaborative expense tracking solution.
+
+## Technology Stack
+
+- **Programming Language**: Java
+- **ORM Framework**: Hibernate
+- **Database**: MySQL
+
+## Additional Notes
