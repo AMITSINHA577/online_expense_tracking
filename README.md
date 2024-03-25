@@ -36,3 +36,6 @@ The Online Expense Tracker is a Java application aimed at providing users with a
 - **Database**: MySQL
 
 ## Additional Notes
+
+![ER Diagram](images/ER diagram(online-expense-tracker).png)
+
